@@ -4,7 +4,7 @@ class Macscrub < Formula
   desc "Modular CLI tool for safely cleaning up macOS system files"
   homepage "https://github.com/narthanaj/macscrub"
   url "https://github.com/narthanaj/macscrub/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "129d3129e647ff35c48c4e0928668bf919d0425e397d9dd41475d8cb7dfdc8b4"
   license "MIT"
 
   depends_on "python@3.12"
